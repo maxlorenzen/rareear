@@ -85,7 +85,7 @@ li a {
   display: block;
   color:   #ad5c4a;
   text-align: center;
-  padding: 7px 13px;
+  padding: 7px 10px;
   text-decoration: none;
   font-family: 'Vollkorn', serif;
   font-weight: 700;
@@ -99,4 +99,13 @@ li a:hover {
 img {
   display: block;
   margin: auto;
+}
+
+textarea {
+  font-family: "Tahoma", "Arial", "Arabic Transparent";
+  font-size: 14px
+}
+input {
+  font-family: "Tahoma", "Arial", "Arabic Transparent";
+  font-size: 14px
 }
